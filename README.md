@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mendozajpd
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning SQL, Python, and other things related to data engineering.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Gamedev (have given up on Data Engineering but may come back to it at a later date)
+- 🌱 I’m currently learning C# and Arduino C
+- 💞️ I’m looking to collaborate on small indie game dev
+- 📫 How to reach me: just send me a message or an email at jeanpauljr.mendoza@gmail.com
+- I may not respond asap haha
